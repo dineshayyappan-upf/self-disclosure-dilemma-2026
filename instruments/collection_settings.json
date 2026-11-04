@@ -1,0 +1,41 @@
+{
+  "models": {
+    "sonnet46": {
+      "id": "eu.anthropic.claude-sonnet-4-6",
+      "label": "Sonnet 4.6",
+      "provider": "anthropic"
+    },
+    "opus46": {
+      "id": "eu.anthropic.claude-opus-4-6-v1",
+      "label": "Opus 4.6",
+      "provider": "anthropic"
+    },
+    "haiku45": {
+      "id": "eu.anthropic.claude-haiku-4-5-20251001-v1:0",
+      "label": "Haiku 4.5",
+      "provider": "anthropic"
+    },
+    "gpt_oss_safeguard_120b": {
+      "id": "openai.gpt-oss-safeguard-120b",
+      "label": "GPT-OSS Safeguard 120B",
+      "provider": "openai"
+    },
+    "qwen3_vl_235b": {
+      "id": "qwen.qwen3-vl-235b-a22b",
+      "label": "Qwen3 VL 235B",
+      "provider": "qwen"
+    }
+  },
+  "generation_temperature": 0.0,
+  "generation_max_tokens": {
+    "anthropic": 1024,
+    "other": 4096
+  },
+  "generation_system_prompt": null,
+  "user_prompt_template": "{disclosure_text} {query_text}",
+  "control_prompt_template": "{query_text}",
+  "primary_tag_judge": "opus46",
+  "judge_temperature": 0.0,
+  "judge_max_tokens": 256,
+  "full_deployment_revision": "not recorded"
+}

@@ -1,0 +1,218 @@
+[
+  {
+    "case_id": "D01",
+    "model": "gpt_oss_safeguard_120b",
+    "query_id": "c03_overwhelmed",
+    "condition": "subclinical_focus",
+    "phrasing": "implicit_brief",
+    "tailored_sha256": "03598f1b9eba19bdbfc4e3eac0739148cdaa515cb06f29b2086619d49196021f",
+    "control_sha256": "ba7585ab4e59b11ee2e419d12250b3c54c77eea81fb1fa6af002c1810993b3f9"
+  },
+  {
+    "case_id": "D02",
+    "model": "opus46",
+    "query_id": "c12_support_groups",
+    "condition": "neurotypical",
+    "phrasing": "implicit_detailed",
+    "tailored_sha256": "4aa0dd8d3ca3fca05587ebfd26e3a45b3c53ded1de5c37f11a19c6959adc8d5b",
+    "control_sha256": "e80f446c58ea7adbd1a525bfb654491e6597bed34c6f6e20f9db709942dcc4f8"
+  },
+  {
+    "case_id": "D03",
+    "model": "qwen3_vl_235b",
+    "query_id": "c01_financial_stress",
+    "condition": "refugee",
+    "phrasing": "explicit_brief",
+    "tailored_sha256": "7728eea62c7f8c7da509bba10a4b80ca1b3493e46d5a02e398deeef00fc761ab",
+    "control_sha256": "4d27bdfe3596f954cd67e98ac6a04c9213a63ee6384d79c58a0c42956f557c51"
+  },
+  {
+    "case_id": "D04",
+    "model": "gpt_oss_safeguard_120b",
+    "query_id": "c05_leave_job",
+    "condition": "substance_use_disorder",
+    "phrasing": "explicit_brief",
+    "tailored_sha256": "381040e1be605c394a1f57e627cc4e4b784ed647568c7f44bd573fa631f00d43",
+    "control_sha256": "633513b0951ac57e4a6184a724466a98c4cfbe62f8a8cdb8287c00118a64c2a5"
+  },
+  {
+    "case_id": "D05",
+    "model": "qwen3_vl_235b",
+    "query_id": "c14_affordable_housing",
+    "condition": "bisexual",
+    "phrasing": "explicit_detailed",
+    "tailored_sha256": "c91abe7151247caebb8f63189be4ea5a71ee055a7e015831fb6b0c2e14777196",
+    "control_sha256": "3da2f511418803db79f3487f9e0475c01b31da799813d8180470f08f712f65ce"
+  },
+  {
+    "case_id": "D06",
+    "model": "opus46",
+    "query_id": "c13_concentration",
+    "condition": "anxiety_disorder",
+    "phrasing": "explicit_detailed",
+    "tailored_sha256": "29bdfbe8a12594e4aa677c6719402def64098de0500d9bcff5ca8b2925091411",
+    "control_sha256": "2eaefdf379df16625321bc9df80fa17c5f5a4e08455d9fd5c3640c508c2d8385"
+  },
+  {
+    "case_id": "D07",
+    "model": "qwen3_vl_235b",
+    "query_id": "c11_work_stress",
+    "condition": "subclinical_social_preference",
+    "phrasing": "implicit_brief",
+    "tailored_sha256": "c80e6f27c37cc0bd2a20e2679e7c0c87347f7d92158d273fe55c374f223eff0e",
+    "control_sha256": "0a746a4a381b688531f46c42c7c17e27944c55a33fb4315276246918a91364e8"
+  },
+  {
+    "case_id": "D08",
+    "model": "gpt_oss_safeguard_120b",
+    "query_id": "c09_affordable_healthcare",
+    "condition": "union_member",
+    "phrasing": "explicit_brief",
+    "tailored_sha256": "32b502a881c938aa5e56237074703b4dab1c3cb0fe0a2a9ae70a074e5b2018f4",
+    "control_sha256": "25051d6cee326d7b80b7019d70a89ead084a5480c8e92c43c63f7062132e8b95"
+  },
+  {
+    "case_id": "D09",
+    "model": "gpt_oss_safeguard_120b",
+    "query_id": "c06_safety_events",
+    "condition": "religious_majority",
+    "phrasing": "implicit_detailed",
+    "tailored_sha256": "b96ea625bf577b4c761b0d3908e946f62d56eda84f7e6157ee1410776005be14",
+    "control_sha256": "6c0337bc189660b1b9c27f7240cd0385d9faa024ab919b3abf0011590cd13201"
+  },
+  {
+    "case_id": "D10",
+    "model": "opus46",
+    "query_id": "c08_partner_needs",
+    "condition": "subclinical_energy_fluctuation",
+    "phrasing": "implicit_brief",
+    "tailored_sha256": "74cbc9eb8eabe71a90937d4dae3bff1859230391260c7a59a500f02eb3fc47bd",
+    "control_sha256": "a44292d22392d3eb9fd49a8a319800fcb37c622a6d83f55959e961386285198e"
+  },
+  {
+    "case_id": "D11",
+    "model": "opus46",
+    "query_id": "c02_mental_health_work",
+    "condition": "adhd",
+    "phrasing": "implicit_detailed",
+    "tailored_sha256": "34f8c7da25bf08ae236edde6ce982024a532ee4e2de7c23327ca6c13e6bc2f1b",
+    "control_sha256": "7d22c2245f23969b7697ed18e727e5da559e1a9452cd2c46edbb37fd4980a34a"
+  },
+  {
+    "case_id": "D12",
+    "model": "qwen3_vl_235b",
+    "query_id": "c06_belonging_city",
+    "condition": "working_class",
+    "phrasing": "explicit_detailed",
+    "tailored_sha256": "d40930be2468b2dffefa921e7b82c088633ea96d4b3ab5a417e8d566ce6aad53",
+    "control_sha256": "bfebd18932406d399e7ea1c360413ffecf1785376c11c306a4a5306eaac32b80"
+  },
+  {
+    "case_id": "V01",
+    "model": "qwen3_vl_235b",
+    "query_id": "c16_withdrawn",
+    "condition": "gay",
+    "phrasing": "explicit_brief",
+    "tailored_sha256": "07b80711a63767ca502b08bbe2d73fc967524d9e354a302f675dfdfecc56be4e",
+    "control_sha256": "c819b105e60b794b65f3ed1598f7ededd7bf4fa2523d7f26bced317a5d618761"
+  },
+  {
+    "case_id": "V02",
+    "model": "opus46",
+    "query_id": "c11_workplace_anxiety",
+    "condition": "subclinical_habit_change",
+    "phrasing": "implicit_detailed",
+    "tailored_sha256": "73b4619bffd243a93f30ba09ceefc2ff39e51e70287c0e17f3a0c32f887c8392",
+    "control_sha256": "305870cea7c64d9b8c685d9a68e33d337334bc0dd03c58c83db68bd3f241dfd4"
+  },
+  {
+    "case_id": "V03",
+    "model": "gpt_oss_safeguard_120b",
+    "query_id": "c04_family_financial",
+    "condition": "depression",
+    "phrasing": "implicit_brief",
+    "tailored_sha256": "a448df9871c228023b642ce35ea02bd182a1c025ab9b2b6ecd543dcb9d0c3588",
+    "control_sha256": "62ecae892bc569c5f685ce827f756a80f6c2ae8c4000ab0eff3dc77139c1e373"
+  },
+  {
+    "case_id": "V04",
+    "model": "gpt_oss_safeguard_120b",
+    "query_id": "c15_keep_job",
+    "condition": "working_age",
+    "phrasing": "explicit_detailed",
+    "tailored_sha256": "9f40ab197355da5e9faf73eaf11e98249a8d31566367ac720ee1ec6186597c0e",
+    "control_sha256": "563c39a0f08a1e7f9e923ce6a4c04ad797409561f4121fb523aa60d9f3573480"
+  },
+  {
+    "case_id": "V05",
+    "model": "opus46",
+    "query_id": "c00_inadequacy",
+    "condition": "schizophrenia",
+    "phrasing": "explicit_detailed",
+    "tailored_sha256": "272040c12ee92f3aedd7a76a81ccf4b8133fd0c351b562cb5f415738822ed3c2",
+    "control_sha256": "7819992c9dd1ae60b45214408a883ad39c453a4d31e00e61c1c8ff5a620aeef4"
+  },
+  {
+    "case_id": "V06",
+    "model": "gpt_oss_safeguard_120b",
+    "query_id": "c05_seek_help",
+    "condition": "subclinical_worry",
+    "phrasing": "implicit_brief",
+    "tailored_sha256": "c2123daa5ee2464c3a7920b59ad23bc14992a6d622f31ffb208fb479b8cb2aa8",
+    "control_sha256": "923567c7c623b5fb6d0731f8cf3c524283feece5a512b70ab8a26f1a9f0509ff"
+  },
+  {
+    "case_id": "V07",
+    "model": "opus46",
+    "query_id": "c12_housing_support",
+    "condition": "elderly",
+    "phrasing": "implicit_brief",
+    "tailored_sha256": "69d80fb77054ec5cc6600dc6cd5b829ab06894991ce940f99af2845d49cb5a32",
+    "control_sha256": "17108a3ec54a9cf6eb3ae2317bad0a0668791d7a17e7e77bdcd1966779224b4d"
+  },
+  {
+    "case_id": "V08",
+    "model": "qwen3_vl_235b",
+    "query_id": "c08_support_partner",
+    "condition": "eating_disorder",
+    "phrasing": "explicit_brief",
+    "tailored_sha256": "1742f4c75f9da374b3a5d9bc87366193d99dc15d3d2a17d75d32eaae77928494",
+    "control_sha256": "572e844ee782b7140caeced76bbbedf20bff96875c88b81616beb3ec51e0d9dc"
+  },
+  {
+    "case_id": "V09",
+    "model": "qwen3_vl_235b",
+    "query_id": "c03_positive_outlook",
+    "condition": "cisgender",
+    "phrasing": "implicit_detailed",
+    "tailored_sha256": "8376aa099c9f87212481deda709a74261f3cc92bacf73a89c6e8e28aaaa6aa13",
+    "control_sha256": "8b4046a2177ee1f4edc76917f64354ef651de6862d47ab2202be678c3f9056ee"
+  },
+  {
+    "case_id": "V10",
+    "model": "opus46",
+    "query_id": "c01_retirement",
+    "condition": "racial_majority",
+    "phrasing": "explicit_detailed",
+    "tailored_sha256": "51e9d28d96f597b8a9dcd91bd32fde24d6768dc5c8110ee280c42b3479d2521e",
+    "control_sha256": "db2a2e28ca6e0c7ded2b466f0238db4ddf272fdcb4fc35bf6b8582907358d2b9"
+  },
+  {
+    "case_id": "V11",
+    "model": "qwen3_vl_235b",
+    "query_id": "c07_beliefs_expectations",
+    "condition": "subclinical_low_mood",
+    "phrasing": "implicit_detailed",
+    "tailored_sha256": "aa0ac1f9f85ea0c2f6092cbc74d119255f3f08f0ae4dacf94538ff28541c68e9",
+    "control_sha256": "72627d31184c460b4890c361053d38e392aeea5ae8bcbaa5c4134deafd5f01c8"
+  },
+  {
+    "case_id": "V12",
+    "model": "gpt_oss_safeguard_120b",
+    "query_id": "c15_team_dynamics",
+    "condition": "religious_minority",
+    "phrasing": "explicit_brief",
+    "tailored_sha256": "8dbcc3a06c353fa1189de63487ae5ba3bb358669b37fda51daa6a2a4def27650",
+    "control_sha256": "739adbaffe15c5118dd27fbec2edc41fa02c3e6064e5b8be526ac937e957c220"
+  }
+]

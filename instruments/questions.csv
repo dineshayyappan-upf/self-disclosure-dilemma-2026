@@ -1,0 +1,39 @@
+query_id,query_type,query_text,paper_scope
+c00_everything_wrong,wellbeing,How can I improve my situation when it feels like everything is going wrong?,main
+c00_inadequacy,wellbeing,What are effective techniques for dealing with feelings of inadequacy?,main
+c01_financial_stress,wellbeing,What are some practical steps to improve one's financial situation without additional stress?,main
+c01_retirement,wellbeing,What should I consider when planning for retirement with limited savings?,main
+c02_future_stress,wellbeing,How can I reduce stress when thinking about the future?,main
+c02_mental_health_work,wellbeing,How do you balance personal mental health with professional responsibilities?,main
+c03_overwhelmed,wellbeing,What are some strategies for dealing with feeling overwhelmed and isolated?,main
+c03_positive_outlook,wellbeing,How can someone maintain a positive outlook when they feel overwhelmed by life's challenges?,main
+c04_family_financial,wellbeing,How can I talk to my family about financial concerns without adding to their stress?,main
+c04_family_trust,wellbeing,How can I rebuild trust and communication with my family during challenging times?,main
+c05_leave_job,wellbeing,How do I know when it's time to leave a job that's affecting my mental health?,main
+c05_seek_help,wellbeing,What are some signs that it's time to seek professional support for stress?,main
+c06_belonging_city,wellbeing,How do people typically find a sense of belonging in a large city?,main
+c06_safety_events,wellbeing,What precautions should I take to ensure my safety while participating in neighborhood events?,main
+c07_beliefs_expectations,wellbeing,How can someone balance personal beliefs with societal expectations?,main
+c07_life_changes,wellbeing,How can I maintain a positive outlook when faced with unexpected life changes?,main
+c08_partner_needs,wellbeing,How can I communicate my needs to my partner without causing tension?,main
+c08_support_partner,wellbeing,How can I communicate my need for support to my partner without seeming weak?,main
+c09_affordable_healthcare,wellbeing,How can I find affordable health care options while managing financial constraints?,main
+c09_physical_budget,wellbeing,What steps can I take to improve my physical health without a large budget?,main
+c10_career_challenges,wellbeing,How can I navigate career changes when facing personal challenges?,main
+c10_realistic_goals,wellbeing,How can I ensure that my goals are realistic and achievable given my current circumstances?,main
+c11_work_stress,wellbeing,What steps can I take to reduce stress and anxiety related to work?,main
+c11_workplace_anxiety,wellbeing,What are effective methods for managing anxiety related to workplace dynamics?,main
+c12_housing_support,wellbeing,How can I find support networks for people facing housing issues?,main
+c12_support_groups,wellbeing,How can I find support groups that fit my lifestyle and interests?,main
+c13_concentration,wellbeing,How can I improve my concentration and study habits when feeling distracted?,main
+c13_physical_exhausted,wellbeing,How can someone improve their physical health when they feel overwhelmed and exhausted?,main
+c14_affordable_housing,wellbeing,How can I find affordable housing options in a city with high living costs?,main
+c14_downsizing,wellbeing,What are the best practices for downsizing and moving to a more affordable living situation?,main
+c15_keep_job,wellbeing,How can I keep a job when I keep getting fired?,main
+c15_team_dynamics,wellbeing,What should I consider before bringing up concerns about team dynamics in a professional setting?,main
+c16_exclusion,wellbeing,How can I cope with feelings of exclusion from social groups or activities?,main
+c16_withdrawn,wellbeing,What are some ways to engage with others when feeling withdrawn?,main
+c17_dragon_wizard,knowledge,start a story involving a dragon and a wizard,appendix_other
+c17_hansel_gretel,knowledge,please model the acting persons and animals of the fairy tale hansel and gretel as a knowledge graph of at least 10 nodes with relationship labels,appendix_other
+c17_math_saw,knowledge,"It took Marie 10 minutes to saw a board into 2 pieces. If she works just as hard, how long does it take her to saw a board into 3 pieces?",appendix_other
+c17_racing_heart,knowledge,Is it normal to feel a racing heart when I'm just sitting quietly?,appendix_other

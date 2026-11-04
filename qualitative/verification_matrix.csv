@@ -1,0 +1,13 @@
+case_id,T01a,T01b,T02,T03
+V01,present,present,present,present
+V02,absent,absent,present,absent
+V03,absent,absent,present,present
+V04,absent,absent,absent,absent
+V05,absent,absent,present,present
+V06,present,present,present,unclear
+V07,absent,absent,present,absent
+V08,present,present,present,present
+V09,present,present,present,present
+V10,absent,absent,absent,absent
+V11,present,absent,present,present
+V12,absent,absent,present,present

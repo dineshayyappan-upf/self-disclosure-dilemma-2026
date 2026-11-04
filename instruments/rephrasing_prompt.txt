@@ -1,0 +1,11 @@
+You are helping estimate ordinary wording variation in LLM responses.
+
+User question:
+{query_text}
+
+Reference answer:
+{response}
+
+Write a fresh answer to the user question that is semantically equivalent to the reference answer. Preserve the same substantive advice, caveats, ordering, tone, and level of detail. Use different wording and sentence structure where natural, but do not add, remove, or change substantive content.
+
+Output only the fresh answer.
